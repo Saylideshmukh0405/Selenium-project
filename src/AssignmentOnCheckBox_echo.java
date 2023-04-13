@@ -49,6 +49,8 @@ public class AssignmentOnCheckBox_echo {
 		   Thread.sleep(2000);
 		   check_box.get(2).click();//Clicking on last checkbox
 		   
+		   System.out.println("Git project practice");
+		   
 		   
 		   
 		   
